@@ -15,3 +15,5 @@ temp-testng-customsuite.xml
 test-output
 .externalToolBuilders
 *~
+.*.swp
+.*.swo
